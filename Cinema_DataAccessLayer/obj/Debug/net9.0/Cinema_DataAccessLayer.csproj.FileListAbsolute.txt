@@ -1,0 +1,17 @@
+C:\Users\DELL\Downloads\Programming\Projects\CinemaManagementSystem\Cinema_DataAccessLayer\bin\Debug\net9.0\Cinema_DataAccessLayer.deps.json
+C:\Users\DELL\Downloads\Programming\Projects\CinemaManagementSystem\Cinema_DataAccessLayer\bin\Debug\net9.0\Cinema_DataAccessLayer.runtimeconfig.json
+C:\Users\DELL\Downloads\Programming\Projects\CinemaManagementSystem\Cinema_DataAccessLayer\bin\Debug\net9.0\Cinema_DataAccessLayer.dll
+C:\Users\DELL\Downloads\Programming\Projects\CinemaManagementSystem\Cinema_DataAccessLayer\bin\Debug\net9.0\Cinema_DataAccessLayer.pdb
+C:\Users\DELL\Downloads\Programming\Projects\CinemaManagementSystem\Cinema_DataAccessLayer\obj\Debug\net9.0\Cinema_DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\Programming\Projects\CinemaManagementSystem\Cinema_DataAccessLayer\obj\Debug\net9.0\Cinema_DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\Programming\Projects\CinemaManagementSystem\Cinema_DataAccessLayer\obj\Debug\net9.0\Cinema_DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\Programming\Projects\CinemaManagementSystem\Cinema_DataAccessLayer\obj\Debug\net9.0\Cinema_DataAccessLayer.AssemblyInfo.cs
+C:\Users\DELL\Downloads\Programming\Projects\CinemaManagementSystem\Cinema_DataAccessLayer\obj\Debug\net9.0\Cinema_DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Programming\Projects\CinemaManagementSystem\Cinema_DataAccessLayer\obj\Debug\net9.0\Cinema_DataAccessLayer.dll
+C:\Users\DELL\Downloads\Programming\Projects\CinemaManagementSystem\Cinema_DataAccessLayer\obj\Debug\net9.0\refint\Cinema_DataAccessLayer.dll
+C:\Users\DELL\Downloads\Programming\Projects\CinemaManagementSystem\Cinema_DataAccessLayer\obj\Debug\net9.0\Cinema_DataAccessLayer.pdb
+C:\Users\DELL\Downloads\Programming\Projects\CinemaManagementSystem\Cinema_DataAccessLayer\obj\Debug\net9.0\Cinema_DataAccessLayer.genruntimeconfig.cache
+C:\Users\DELL\Downloads\Programming\Projects\CinemaManagementSystem\Cinema_DataAccessLayer\obj\Debug\net9.0\ref\Cinema_DataAccessLayer.dll
+C:\Users\DELL\Downloads\Programming\Projects\CinemaManagementSystem\Cinema_DataAccessLayer\bin\Debug\net9.0\Cinema_BusinessLayer.dll
+C:\Users\DELL\Downloads\Programming\Projects\CinemaManagementSystem\Cinema_DataAccessLayer\bin\Debug\net9.0\Cinema_BusinessLayer.pdb
+C:\Users\DELL\Downloads\Programming\Projects\CinemaManagementSystem\Cinema_DataAccessLayer\obj\Debug\net9.0\Cinema_D.364E41B0.Up2Date

@@ -1,0 +1,12 @@
+C:\Users\DELL\Downloads\Programming\Projects\CinemaManagementSystem\Cinema_BusinessLayer\bin\Debug\net9.0\Cinema_BusinessLayer.deps.json
+C:\Users\DELL\Downloads\Programming\Projects\CinemaManagementSystem\Cinema_BusinessLayer\bin\Debug\net9.0\Cinema_BusinessLayer.dll
+C:\Users\DELL\Downloads\Programming\Projects\CinemaManagementSystem\Cinema_BusinessLayer\bin\Debug\net9.0\Cinema_BusinessLayer.pdb
+C:\Users\DELL\Downloads\Programming\Projects\CinemaManagementSystem\Cinema_BusinessLayer\obj\Debug\net9.0\Cinema_BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\Programming\Projects\CinemaManagementSystem\Cinema_BusinessLayer\obj\Debug\net9.0\Cinema_BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\Programming\Projects\CinemaManagementSystem\Cinema_BusinessLayer\obj\Debug\net9.0\Cinema_BusinessLayer.AssemblyInfo.cs
+C:\Users\DELL\Downloads\Programming\Projects\CinemaManagementSystem\Cinema_BusinessLayer\obj\Debug\net9.0\Cinema_BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Programming\Projects\CinemaManagementSystem\Cinema_BusinessLayer\obj\Debug\net9.0\Cinema_BusinessLayer.dll
+C:\Users\DELL\Downloads\Programming\Projects\CinemaManagementSystem\Cinema_BusinessLayer\obj\Debug\net9.0\refint\Cinema_BusinessLayer.dll
+C:\Users\DELL\Downloads\Programming\Projects\CinemaManagementSystem\Cinema_BusinessLayer\obj\Debug\net9.0\Cinema_BusinessLayer.pdb
+C:\Users\DELL\Downloads\Programming\Projects\CinemaManagementSystem\Cinema_BusinessLayer\obj\Debug\net9.0\ref\Cinema_BusinessLayer.dll
+C:\Users\DELL\Downloads\Programming\Projects\CinemaManagementSystem\Cinema_BusinessLayer\obj\Debug\net9.0\Cinema_BusinessLayer.csproj.AssemblyReference.cache
