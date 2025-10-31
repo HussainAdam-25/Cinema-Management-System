@@ -21,7 +21,7 @@ Upon successful login, the token has a specific duration and expires, and the us
   
 * Viewing movie offers .
   
-## Methods used in the code
+## ⚙️ Methods used in the code
 
 - Design Patterns :
 
