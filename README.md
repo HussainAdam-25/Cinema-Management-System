@@ -17,7 +17,20 @@ Upon successful login, the token has a specific duration and expires, and the us
 
 ## ⭐️ Main Features
 
+* Book a ticket .
+  
+* Viewing movie offers .
+  
+## Methods used in the code
 
+- Design Patterns :
 
+   * UnitOfWork (UOW)
+
+  * Repository Pattern
+
+- JSON Web Token (JWT)
+
+   * Authentication & Authorization
 
 ---
