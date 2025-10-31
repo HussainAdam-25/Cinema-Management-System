@@ -32,5 +32,31 @@ Upon successful login, the token has a specific duration and expires, and the us
 - JSON Web Token (JWT)
 
    * Authentication & Authorization
+     
+## 🧑‍💼 Customer Information:
 
----
+• National ID (unique key)
+
+• Full Name
+
+• Email
+
+• Phone
+
+## ▶ How to Run
+
+ • Open the project in Visual Studio.
+
+ • Run the application and log in.
+ 
+ ## Login Credentials:
+
+| *Username* | *Password* |
+|--------------|--------------|
+| admin        | 123            |
+
+## 🧑‍💻 Author
+
+*ELHussain Adam*
+
+
