@@ -1,8 +1,6 @@
 # 🎬🍿 Cinema Management System
 
-A simple cinema management system project that aims to allow customers to book a movie ticket while checking seat availability, and includes all CRUD operations for (halls, seats, tickets, 
-
-customers, movies, and showtimes).
+A simple cinema management system project that aims to allow customers to book a movie ticket while checking seat availability, and includes all CRUD operations for (halls, seats, tickets, customers, movies, and showtimes).
 
 ## 🧩 Technologies Used
 
